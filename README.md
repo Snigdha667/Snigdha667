@@ -10,7 +10,7 @@
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/snigdha-singh-840952220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWBU8enmReiQyzaT2z%2FC2w%3D%3D),
 [Email](snigdhasing667@gmail.com),
 [Github](https://github.com/Snigdha667),
-[Hackerrank](https://www.hackerrank.com/s_201500698).
+[Hackerrank](https://www.hackerrank.com/s_201500698),[Instagram](https://www.instagram.com/ssnidha007/).
 - 😄 Pronouns: none
 - ⚡ Fun fact: **I'm a bit too lazy!**
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>"/>
