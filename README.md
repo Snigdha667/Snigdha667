@@ -11,6 +11,6 @@
 [Email](snigdhasing667@gmail.com),
 [Github](https://github.com/Snigdha667),
 [Hackerrank](https://www.hackerrank.com/s_201500698).
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: none
+- ⚡ Fun fact: **I'm a bit too lazy!**
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>"/>
