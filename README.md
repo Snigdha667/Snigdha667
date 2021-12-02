@@ -14,4 +14,16 @@
 [Hackerrank](https://www.hackerrank.com/s_201500698),[Instagram](https://www.instagram.com/ssnidha007/).
 - 😄 Pronouns: none
 - ⚡ Fun fact: **I'm a bit too lazy!**
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Snigdha667&show_icons=true&locale=en&layout=compact" alt="Snigdha667" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Snigdha667&show_icons=true&locale=en" alt="Snigdha667" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Snigdha667&" alt="Snigdha667" /></p>
+
+
+
+
+
