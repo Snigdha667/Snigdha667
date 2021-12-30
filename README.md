@@ -13,7 +13,7 @@
 [Github](https://github.com/Snigdha667),
 [Hackerrank](https://www.hackerrank.com/s_201500698),[Instagram](https://www.instagram.com/ssnidha007/).
 - 😄 Pronouns: none
-- ⚡ Fun fact: **I'm a bit too lazy!**
+- ⚡ Fun fact: **I'm a little bit good at art!**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
