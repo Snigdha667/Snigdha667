@@ -7,6 +7,8 @@
 
 <p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158569258-6628a58f-0022-4783-bb94-a67fb89bed00.gif" width="300" height="300" /></p>
 
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158569642-24fd52c3-9ba5-46e5-aff5-b41872bd324f.gif" width="300" height="300" /></p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/Snigdha667](https://github.com/Snigdha667)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/snigdha-singh-840952220](https://www.linkedin.com/in/snigdha-singh-840952220)
