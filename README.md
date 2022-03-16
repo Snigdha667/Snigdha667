@@ -39,8 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snigdha667&show_icons=true&locale=en" alt="snigdha667" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snigdha667&" alt="snigdha667" /></p>
-
-
-#<p align="left"> <a href="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" target="_blank"> <img src="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" #alt="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" width="40" height="40"/> </a> 
-  
-#<a href="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" target="_blank"><img src="https://giphy.com/embed/EcqCKYnrHiAgwpGqme.gif" /></a>
