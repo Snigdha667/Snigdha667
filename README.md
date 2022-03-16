@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Snigdha</h1>
 <h3 align="center">A passionate programming enthusiast from India!!</h3>
 
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158569642-24fd52c3-9ba5-46e5-aff5-b41872bd324f.gif" width="300" height="150" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snigdha667&label=Profile%20views&color=0e75b6&style=flat" alt="snigdha667" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snigdha667" alt="snigdha667" /></a> </p>
 
 <p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158569258-6628a58f-0022-4783-bb94-a67fb89bed00.gif" width="300" height="300" /></p>
-
-<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158569642-24fd52c3-9ba5-46e5-aff5-b41872bd324f.gif" width="300" height="150" /></p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Snigdha667](https://github.com/Snigdha667)
 
@@ -18,6 +18,8 @@
 - 🔭 I’m currently working on **Python and Java Programming Languages.**
 
 - 🌱 I’m currently learning **Coding in Python,Java& C specifically.**
+
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158570231-fdd82e45-4c19-49e2-addb-b871b05a4f18.gif" width="100" height="100" /></p>
 
 - 👯 I’m looking to collaborate on **anything that could pave a way to increase my knowledge in the above.**
 
