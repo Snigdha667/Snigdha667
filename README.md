@@ -43,3 +43,4 @@
 
 <p align="left"> <a href="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" target="_blank"> <img src="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" alt="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" width="40" height="40"/> </a> 
   
+<a href="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" target="_blank"><img src="https://giphy.com/embed/EcqCKYnrHiAgwpGqme.gif" /></a>
