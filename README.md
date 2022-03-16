@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snigdha667" alt="snigdha667" /></a> </p>
 
+![shecodes](https://user-images.githubusercontent.com/90649383/158568064-c98066d5-6e07-43e1-af48-6aa8118b1cc2.gif)
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/Snigdha667](https://github.com/Snigdha667)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/snigdha-singh-840952220](https://www.linkedin.com/in/snigdha-singh-840952220)
