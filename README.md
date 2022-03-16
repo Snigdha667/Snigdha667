@@ -1,6 +1,6 @@
 ### Hi there 👋
-#**Snigdha Here!!**
-###**Lemme Introduce Myself first!**
+**#Snigdha Here!!**
+**###Lemme Introduce Myself first!**
 
 - 🔭 I’m currently working on **Python and Java Programming Languages.**
 - 🌱 I’m currently learning **Coding in Python,Java& C specifically.**
