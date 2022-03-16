@@ -25,6 +25,8 @@
 
 - 💬 Ask me about **Coding,Java,Python,C etc.**
 
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158570231-fdd82e45-4c19-49e2-addb-b871b05a4f18.gif" width="300" height="300" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/snigdha22916007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snigdha22916007" height="30" width="40" /></a>
