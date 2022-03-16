@@ -15,7 +15,8 @@
 - ⚡ Fun fact: **I'm a little bit good at art!**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<iframe align="left" src="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-EcqCKYnrHiAgwpGqme">via GIPHY</a></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Snigdha667&show_icons=true&locale=en&layout=compact" alt="Snigdha667" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Snigdha667&show_icons=true&locale=en" alt="Snigdha667" /></p>
