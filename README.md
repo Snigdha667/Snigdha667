@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **anything that could pave a way to increase my knowledge in the above.**
 - 🤔 I’m looking for help with **Java & Python and anything else related to Computer Science!**
 - 💬 Ask me about **Coding,Java,Python,C etc.**
-<p><img alt="gif" align="right" src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-EcqCKYnrHiAgwpGqme"/></p>
+<p><img alt="gif" align="right" src="https://github.com/Snigdha667/Snigdha667/blob/main/VID-20220316-WA0001.mp4" width="320" height="320" /></p>
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/snigdha-singh-840952220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWBU8enmReiQyzaT2z%2FC2w%3D%3D),
 [Email](snigdhasing667@gmail.com),
 [Github](https://github.com/Snigdha667),
