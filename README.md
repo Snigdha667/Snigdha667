@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snigdha667" alt="snigdha667" /></a> </p>
 
-![shecodes](https://user-images.githubusercontent.com/90649383/158568064-c98066d5-6e07-43e1-af48-6aa8118b1cc2.gif align="right")
-
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158569258-6628a58f-0022-4783-bb94-a67fb89bed00.gif" width="300" height="300" /></p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Snigdha667](https://github.com/Snigdha667)
 
