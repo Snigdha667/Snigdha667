@@ -27,7 +27,9 @@
 
 - 💬 Ask me about **Coding,Java,Python,C etc.**
 
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158571029-128d3f14-9e0c-4591-8f18-db534de2f46b.gif" width="150" height="150" /></p>
 
+<p><img align="right" alt="png" src="https://user-images.githubusercontent.com/90649383/158571297-dfe92488-c49a-42ec-8106-9e2feac93af3.png" width="150" height="150" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
