@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Snigdha667&" alt="Snigdha667" /></p>
 
-
+<p><img align="center" src="https://giphy.com/embed/EcqCKYnrHiAgwpGqme" width="480" height="480"  alt="gif" /></p>
 
 
 
