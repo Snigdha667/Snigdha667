@@ -3,7 +3,7 @@
 
 <p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158569642-24fd52c3-9ba5-46e5-aff5-b41872bd324f.gif" width="300" height="150" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snigdha667" alt="snigdha667" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snigdha667&label=Profile%20views&color=0e75b6&style=flat" alt="snigdha667" /> </p>
 
 <p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/90649383/158569258-6628a58f-0022-4783-bb94-a67fb89bed00.gif" width="300" height="300" /></p>
 
